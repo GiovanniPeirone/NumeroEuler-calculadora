@@ -14,11 +14,11 @@ Su valor aproximado (truncado) es:
 e ≈ 2, 71828182845904523536028747135266249775724709369995...
 La forma m´as com´un de definir el valor de e es a trav´es de la siguiente serie infinita:
 
-<img href="formula.png"/>
+<img src="formula.png"/>
 
 # Especificación
 
-<img href="Especificaciondelprograma.png" />
+<img src="Especificaciondelprograma.png" />
 
 # Run
 
